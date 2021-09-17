@@ -1,0 +1,89 @@
+.container {
+  border-radius: 5px;
+  background-color: #F2EAD4;
+  padding: 30px;
+  max-width: 500px;
+  height: 600px;
+  align-self: center;
+
+} 
+  body{
+  background-color: #FFFFFF;
+     background-image: url('sg.jpg');
+     font-family: "Roboto", sans-serif;
+  
+}
+h1{
+  text-align: center;
+}
+ .login, .contact{
+  border-radius: 5px;
+  background-color: #F2EAD4;
+  padding: 20px;
+  width:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+    .SubmitButton{
+  background-color: #BAD6AD;
+  border: none;
+  color: black;
+  padding: 5px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+align-self: center;
+        margin: auto;  
+          border-radius: 5px;
+
+
+}
+    .text-center {
+  text-align: center;
+}
+.center {
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+input[type=text], input[type=password],input[type=email],  input[type=integer] select {
+  width: 80%;
+    height: 3%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+   
+}
+input[type=date]{
+  font-size: 15px;
+  border-radius: 2px;
+  width:50%;
+  text-align: center;
+   height: 6%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+}
+    .textarea{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+ 
+
+
+.RegisterArea{
+  text-align: center;
+}
